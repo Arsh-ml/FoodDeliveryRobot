@@ -1,0 +1,7 @@
+# Ignore build artifacts
+build/
+install/
+log/
+.colcon
+.DS_Store
+*.pyc
